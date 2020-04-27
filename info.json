@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "65a9f488553ab9778c1b6e142f9d224aed897a21",
+    "author": "nfox29 <nf2g13@soton.ac.uk>",
+    "time": "2020-04-27 13:28:32",
+    "files": 1,
+    "merge": false,
+    "message": "- edited broken test\n"
+  },
+  "remote": "https://github.com/ropensci/photosearcher",
+  "pkg": "photosearcher"
+}
